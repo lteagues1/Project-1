@@ -11,3 +11,12 @@ body
 		background-color: #cc99ff;
      }
 }
+
+fieldset#form {
+	border: 2px solid #66ccff;
+	border-radius: 2em;
+	width: 40em;
+	margin: auto;
+    font-size: 1em;
+    line-height: 1.0;
+}
