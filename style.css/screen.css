@@ -235,6 +235,16 @@ body {
 
 h2 { font-size: 60px }
 
+p { font-size: 25px }
+
+p {
+	
+    text-align: left;
+    font-size: 1em;
+    line-height: 1.484;
+    margin: 0.0 1em;
+}
+
 fieldset#form {
 	border: 2px solid #66ccff;
 	border-radius: 2em;
@@ -244,12 +254,7 @@ fieldset#form {
     line-height: 1.0;
 }
 
-h2{
-	text-align:left;
-	font-size: .75em;
-	font-weight: bold;
-	color: #000000;
-	font-family: Times New Roman;
+
 }
 legend{
 	text-align:left;
