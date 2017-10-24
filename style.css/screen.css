@@ -229,18 +229,11 @@ html {
 }
 
 body {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding-top: 0;
-	
+	font-size: 100%;
+	background-color: #cc99ff;
 }
 
-@media only screen and (max-width: 1400px) {
-body 
-{
-		background-color: #cc99ff;
-     }
-}
+
 
 fieldset#form {
 	border: 2px solid #66ccff;
