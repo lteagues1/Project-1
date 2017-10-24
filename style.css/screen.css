@@ -269,3 +269,44 @@ fieldset#form {
 	}
 }
 
+body {
+	text-align: left;
+	font-weight: normal;
+	
+}
+
+div, section, fieldset, footer {
+	clear: both;
+	padding: 0.5rem;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 1rem;
+	padding: 1.5rem;
+	font-size: 2rem;
+}
+
+legend {
+	font-size: 1.5rem;
+}
+
+label {
+	text-align: left;
+}
+
+input, select, textarea {
+	margin: 0.25rem;
+}
+
+select {
+	margin-top: 0;
+	margin-bottom: 0.3rem;
+	width: 12rem;
+}
+
+footer {
+	margin: 0.5rem;
+	border: 0.5rem;
+	text-align: left;
+}
