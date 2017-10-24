@@ -233,7 +233,7 @@ body {
 	background-color: #cc99ff;
 }
 
-
+h2 { font-size: 60px }
 
 fieldset#form {
 	border: 2px solid #66ccff;
