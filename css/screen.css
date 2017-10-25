@@ -241,15 +241,14 @@ p {
 	
     text-align: left;
     font-size: 1em;
-    line-height: 1.5;
+    line-height: 1.5;;
     margin: 0.0 1em;
 }
 
 fieldset#form {
-	border-style: solid;
-	border-color: #66ccff;
+	border: 2px solid blue;
 	border-radius: 2em;
-	width: 40em;
+	width: 10em;
 	margin: auto;
         font-size: 1em;
         line-height: 1.5;
