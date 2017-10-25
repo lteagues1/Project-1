@@ -221,6 +221,7 @@ textarea {
 html {
 	font-family: "Arial", sans-serif;
 	font-style: italic;
+	font-color: #66ccff;
 	vertical-align: baseline;
 	width: 100%;
 	line-height: 2em;
@@ -233,19 +234,14 @@ body {
 	background-color: #cc99ff;
 }
 
-h2 { 
-	font-size: 60px;
-	font-color: #66ccff;
-	font-style: italic;
-}
+h2 { font-size: 60px; }
 
-p { font-size: 25px }
+p { font-size: 25px; }
 
 p {
 	
     text-align: left;
     font-size: 1em;
-    font-color: #66ccff;
     line-height: 1.5;;
     margin: 0.0 1em;
 }
