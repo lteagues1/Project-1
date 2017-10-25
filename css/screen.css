@@ -236,6 +236,7 @@ body {
 h2 { 
 	font-size: 60px;
 	font-color: #66ccff;
+	font-style: italic;
 }
 
 p { font-size: 25px }
