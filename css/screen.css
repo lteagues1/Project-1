@@ -246,7 +246,8 @@ p {
 }
 
 fieldset#form {
-	border: 2px solid #66ccff;
+	border-style: solid;
+	border-color: #66ccff;
 	border-radius: 2em;
 	width: 40em;
 	margin: auto;
